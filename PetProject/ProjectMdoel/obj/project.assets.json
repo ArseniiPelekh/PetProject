@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GIT\\PetProject\\ProjectMdoel\\ProjectMdoel.csproj",
-      "projectName": "ProjectMdoel",
-      "projectPath": "E:\\GIT\\PetProject\\ProjectMdoel\\ProjectMdoel.csproj",
+      "projectUniqueName": "E:\\GIT\\PetProject\\ProjectMdoel\\ProjectExistDB.csproj",
+      "projectName": "ProjectExistDB",
+      "projectPath": "E:\\GIT\\PetProject\\ProjectMdoel\\ProjectExistDB.csproj",
       "packagesPath": "C:\\Users\\Arsenii\\.nuget\\packages\\",
       "outputPath": "E:\\GIT\\PetProject\\ProjectMdoel\\obj\\",
       "projectStyle": "PackageReference",
