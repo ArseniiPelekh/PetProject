@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "FileServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectDB", "ProjectDB\ProjectDB.csproj", "{E043F77A-3933-4110-B604-60176DF1BAB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectMdoel", "ProjectMdoel\ProjectMdoel.csproj", "{F47DFBAA-C49E-424F-8D26-0B1FA3393F51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectExistDB", "ProjectMdoel\ProjectExistDB.csproj", "{F47DFBAA-C49E-424F-8D26-0B1FA3393F51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
